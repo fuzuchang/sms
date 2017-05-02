@@ -1,0 +1,27 @@
+{
+    "name": "fuzuchang/sms",
+    "type": "library",
+    "version": "0.0.0",
+    "description": "Logging for PHP 5.3",
+    "keywords": ["yunpian","sms"],
+    "homepage": "https://github.com/fuzuchang/sms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fuzuchang",
+            "email": "fuzuchang@hotmail.com",
+            "homepage": "https://github.com/fuzuchang",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fuzuchang\\Sms\\": "src/"
+        }
+    }
+}
