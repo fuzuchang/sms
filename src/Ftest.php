@@ -6,7 +6,7 @@
  * Time: 17:33
  */
 
-namespace Fuzuchang\Sms;
+namespace SmsGroup\Sms;
 
 
 class Ftest
