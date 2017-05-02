@@ -9,7 +9,7 @@
 namespace SmsGroup\Sms;
 
 
-class Ftest
+class Sms
 {
     public function hello()
     {
