@@ -1,7 +1,6 @@
 {
     "name": "sms-group/sms",
     "type": "library",
-    "version": "1.0.0",
     "description": "发送短信API接口组",
     "keywords": ["yunpian","sms"],
     "homepage": "https://github.com/fuzuchang/sms",
